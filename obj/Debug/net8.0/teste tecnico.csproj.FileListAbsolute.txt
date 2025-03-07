@@ -1,0 +1,14 @@
+C:\Users\doug\Documents\teste tecnico\bin\Debug\net8.0\teste tecnico.exe
+C:\Users\doug\Documents\teste tecnico\bin\Debug\net8.0\teste tecnico.deps.json
+C:\Users\doug\Documents\teste tecnico\bin\Debug\net8.0\teste tecnico.runtimeconfig.json
+C:\Users\doug\Documents\teste tecnico\bin\Debug\net8.0\teste tecnico.dll
+C:\Users\doug\Documents\teste tecnico\bin\Debug\net8.0\teste tecnico.pdb
+C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\teste tecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\teste tecnico.AssemblyInfoInputs.cache
+C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\teste tecnico.AssemblyInfo.cs
+C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\teste tecnico.csproj.CoreCompileInputs.cache
+C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\teste tecnico.dll
+C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\refint\teste tecnico.dll
+C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\teste tecnico.pdb
+C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\teste tecnico.genruntimeconfig.cache
+C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\ref\teste tecnico.dll
