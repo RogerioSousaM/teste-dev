@@ -12,3 +12,4 @@ C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\refint\teste tecnico.dll
 C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\teste tecnico.pdb
 C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\teste tecnico.genruntimeconfig.cache
 C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\ref\teste tecnico.dll
+C:\Users\doug\Documents\teste tecnico\obj\Debug\net8.0\teste tecnico.sourcelink.json
